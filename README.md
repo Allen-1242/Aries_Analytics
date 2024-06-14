@@ -1,1 +1,1 @@
-Platform for user driven Ai Explainability 
+Platform for user driven AI Explainability 
